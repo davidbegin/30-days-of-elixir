@@ -3,7 +3,7 @@
 
 defmodule CowInterrogator do
 
-  # docstring are quite useful you can generate docs out of them
+  # docstrings are quite useful, as you can generate docs out of them
   # check: http://elixir-lang.org/getting-started/module-attributes.html
   # for more info
   @doc """
